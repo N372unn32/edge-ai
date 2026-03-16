@@ -26,3 +26,7 @@ The following guides are available to help you contribute:
 ## Code of Conduct
 
 All contributors are expected to follow the project's code of conduct.
+
+## Quick Start
+
+New contributors should start by reading the development environment setup guide.
