@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://dev.azure.com/ai-at-the-edge-flagship-accelerator/_git/edge-ai)
 
-Production-ready Infrastructure as Code that empowers organizations to achieve more with edge AI solutions. Built by friendly geeks, for every team that needs edge solutions to achieve real production results.
+Production-ready Infrastructure as Code that empowers organizations to deploy edge AI solutions. Built by friendly geeks, for every team that needs edge solutions to achieve real production results.
 
 ## 🎯 Who This Is For
 
